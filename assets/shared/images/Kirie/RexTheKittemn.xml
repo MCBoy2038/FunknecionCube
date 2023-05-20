@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RexTheKittemn.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RexTheKittemn0000" x="0" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0001" x="0" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0002" x="0" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0003" x="0" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0004" x="268" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0005" x="268" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0006" x="536" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0007" x="536" y="0" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0008" x="268" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0009" x="268" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0010" x="536" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0011" x="536" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0012" x="536" y="227" width="268" height="227"/>
+	<SubTexture name="RexTheKittemn0013" x="536" y="227" width="268" height="227"/>
+</TextureAtlas>

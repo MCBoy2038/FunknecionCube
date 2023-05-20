@@ -2,6 +2,6 @@
 
 ## [Gamebanana](https://gamebanana.com/mods/407689)
 
-# Where is the source code?
+# Credits
 
-Funknecion Cube hasn't realeased yet. The mod will possibly release on May 11th.
+They are listed in game.

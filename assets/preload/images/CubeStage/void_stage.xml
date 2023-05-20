@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="void_stage.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background0000" x="0" y="0" width="3337" height="1745"/>
+	<SubTexture name="background0001" x="3337" y="0" width="3337" height="1745"/>
+	<SubTexture name="background0002" x="0" y="1745" width="3337" height="1745"/>
+	<SubTexture name="background0003" x="3337" y="1745" width="3337" height="1745"/>
+	<SubTexture name="background0004" x="0" y="3490" width="3337" height="1745"/>
+</TextureAtlas>

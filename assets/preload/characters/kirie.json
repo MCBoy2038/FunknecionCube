@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lady_left"
+		},
+		{
+			"offsets": [
+				-16,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lady_down"
+		},
+		{
+			"offsets": [
+				12,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lady_up"
+		},
+		{
+			"offsets": [
+				-19,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lady_right"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lady_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kirie_assest",
+	"position": [
+		130,
+		20
+	],
+	"healthicon": "kirie",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		83,
+		123
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

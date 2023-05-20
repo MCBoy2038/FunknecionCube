@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CubeHeartBeatBlack.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CubeHeartBeatBlack0000" x="1" y="1" width="644" height="638"/>
+	<SubTexture name="CubeHeartBeatBlack0001" x="646" y="1" width="634" height="629" frameX="-5" frameY="-5" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0002" x="1281" y="1" width="630" height="623" frameX="-7" frameY="-8" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0003" x="1281" y="1" width="630" height="623" frameX="-7" frameY="-8" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0004" x="1912" y="1" width="619" height="613" frameX="-13" frameY="-13" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0005" x="1912" y="1" width="619" height="613" frameX="-13" frameY="-13" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0006" x="1" y="1" width="644" height="638"/>
+	<SubTexture name="CubeHeartBeatBlack0007" x="646" y="1" width="634" height="629" frameX="-5" frameY="-5" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0008" x="1281" y="1" width="630" height="623" frameX="-7" frameY="-8" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0009" x="1281" y="1" width="630" height="623" frameX="-7" frameY="-8" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0010" x="1912" y="1" width="619" height="613" frameX="-13" frameY="-13" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0011" x="1912" y="1" width="619" height="613" frameX="-13" frameY="-13" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0012" x="2532" y="1" width="611" height="605" frameX="-17" frameY="-17" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0013" x="2532" y="1" width="611" height="605" frameX="-17" frameY="-17" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0014" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0015" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0016" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0017" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0018" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0019" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0020" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0021" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0022" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0023" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0024" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0025" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0026" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+	<SubTexture name="CubeHeartBeatBlack0027" x="3144" y="1" width="606" height="601" frameX="-19" frameY="-19" frameWidth="644" frameHeight="638"/>
+</TextureAtlas>

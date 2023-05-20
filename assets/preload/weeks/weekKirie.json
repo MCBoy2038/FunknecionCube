@@ -1,0 +1,59 @@
+{
+	"storyName": "Uh Oh! Seems some kid stole a murderous Cube!!!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bonjour",
+			"kirie",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Mystery",
+			"kirie",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Destruction",
+			"cubekirie",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Emotionless",
+			"cubekirie",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Kirie"
+}

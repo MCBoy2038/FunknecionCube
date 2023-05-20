@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Front_tree.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tree_movingF0000" x="40" y="40" width="3041" height="1294" pivotX="1528" pivotY="0" frameX="0" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0001" x="40" y="40" width="3041" height="1294" frameX="-81" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0002" x="40" y="40" width="3041" height="1294" frameX="-160" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0003" x="40" y="40" width="3041" height="1294" frameX="-237" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0004" x="40" y="40" width="3041" height="1294" frameX="-312" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0005" x="40" y="40" width="3041" height="1294" frameX="-385" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0006" x="40" y="40" width="3041" height="1294" frameX="-457" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0007" x="40" y="40" width="3041" height="1294" frameX="-526" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0008" x="40" y="40" width="3041" height="1294" frameX="-594" frameY="0" frameWidth="3701" frameHeight="1294"/>
+	<SubTexture name="tree_movingF0009" x="40" y="40" width="3041" height="1294" frameX="-660" frameY="0" frameWidth="3701" frameHeight="1294"/>
+</TextureAtlas>

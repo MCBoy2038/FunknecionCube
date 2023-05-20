@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tall_Gf.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Afraid0000" x="2551" y="848" width="507" height="826" frameX="0" frameY="-35" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0001" x="3058" y="848" width="507" height="826" frameX="0" frameY="-35" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0002" x="3565" y="849" width="507" height="826" frameX="0" frameY="-35" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0003" x="4072" y="849" width="506" height="826" frameX="-1" frameY="-35" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0004" x="5941" y="0" width="507" height="861"/>
+	<SubTexture name="Afraid0005" x="6448" y="0" width="507" height="860" frameX="0" frameY="-1" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0006" x="6955" y="0" width="507" height="860" frameX="0" frameY="-1" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Afraid0007" x="1024" y="848" width="506" height="859" frameX="-1" frameY="-2" frameWidth="507" frameHeight="861"/>
+	<SubTexture name="Look Left0000" x="1530" y="848" width="511" height="849" frameX="-44" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0001" x="1530" y="848" width="511" height="849" frameX="-44" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0002" x="5425" y="0" width="516" height="849" frameX="-39" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0003" x="5425" y="0" width="516" height="849" frameX="-39" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0004" x="3832" y="0" width="536" height="849" frameX="-19" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0005" x="3832" y="0" width="536" height="849" frameX="-19" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0006" x="2748" y="0" width="542" height="848" frameX="-13" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0007" x="2748" y="0" width="542" height="848" frameX="-13" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0008" x="3290" y="0" width="542" height="848" frameX="-13" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0009" x="3290" y="0" width="542" height="848" frameX="-13" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0010" x="1654" y="0" width="547" height="848" frameX="-8" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0011" x="1654" y="0" width="547" height="848" frameX="-8" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0012" x="1106" y="0" width="548" height="848" frameX="-7" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0013" x="555" y="0" width="551" height="848" frameX="-4" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0014" x="555" y="0" width="551" height="848" frameX="-4" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0015" x="0" y="0" width="555" height="847" frameX="0" frameY="-5" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0016" x="0" y="0" width="555" height="847" frameX="0" frameY="-5" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0017" x="2201" y="0" width="547" height="848" frameX="-8" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0018" x="2201" y="0" width="547" height="848" frameX="-8" frameY="-4" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0019" x="4368" y="0" width="532" height="849" frameX="-23" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0020" x="4368" y="0" width="532" height="849" frameX="-23" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0021" x="4900" y="0" width="525" height="849" frameX="-30" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0022" x="4900" y="0" width="525" height="849" frameX="-30" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0023" x="7462" y="0" width="513" height="849" frameX="-42" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0024" x="7462" y="0" width="513" height="849" frameX="-42" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0025" x="0" y="847" width="512" height="849" frameX="-43" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0026" x="0" y="847" width="512" height="849" frameX="-43" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0027" x="512" y="848" width="512" height="849" frameX="-43" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0028" x="2041" y="848" width="510" height="849" frameX="-45" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Left0029" x="2041" y="848" width="510" height="849" frameX="-45" frameY="-3" frameWidth="555" frameHeight="852"/>
+	<SubTexture name="Look Right0000" x="3566" y="1675" width="508" height="817" frameX="0" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0001" x="3566" y="1675" width="508" height="817" frameX="0" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0002" x="2551" y="1674" width="508" height="818" frameX="0" frameY="-4" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0003" x="2551" y="1674" width="508" height="818" frameX="0" frameY="-4" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0004" x="7462" y="849" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0005" x="7462" y="849" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0006" x="6448" y="860" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0007" x="6448" y="860" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0008" x="5594" y="861" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0009" x="5594" y="861" width="508" height="821" frameX="0" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0010" x="4578" y="849" width="508" height="822"/>
+	<SubTexture name="Look Right0011" x="4578" y="849" width="508" height="822"/>
+	<SubTexture name="Look Right0012" x="5086" y="849" width="508" height="822"/>
+	<SubTexture name="Look Right0013" x="6956" y="1670" width="507" height="822" frameX="-1" frameY="0" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0014" x="6956" y="1670" width="507" height="822" frameX="-1" frameY="0" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0015" x="7463" y="1670" width="507" height="822" frameX="-1" frameY="0" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0016" x="7463" y="1670" width="507" height="822" frameX="-1" frameY="0" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0017" x="4578" y="1671" width="507" height="821" frameX="-1" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0018" x="4578" y="1671" width="507" height="821" frameX="-1" frameY="-1" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0019" x="5085" y="1671" width="507" height="820" frameX="-1" frameY="-2" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0020" x="5085" y="1671" width="507" height="820" frameX="-1" frameY="-2" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0021" x="3059" y="1675" width="507" height="819" frameX="-1" frameY="-3" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0022" x="3059" y="1675" width="507" height="819" frameX="-1" frameY="-3" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0023" x="6102" y="1681" width="507" height="818" frameX="-1" frameY="-4" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0024" x="6102" y="1681" width="507" height="818" frameX="-1" frameY="-4" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0025" x="5592" y="1682" width="507" height="817" frameX="-1" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0026" x="5592" y="1682" width="507" height="817" frameX="-1" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0027" x="0" y="1696" width="507" height="817" frameX="-1" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0028" x="507" y="1697" width="507" height="817" frameX="-1" frameY="-5" frameWidth="508" frameHeight="822"/>
+	<SubTexture name="Look Right0029" x="507" y="1697" width="507" height="817" frameX="-1" frameY="-5" frameWidth="508" frameHeight="822"/>
+</TextureAtlas>

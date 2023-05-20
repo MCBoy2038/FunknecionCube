@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lady_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lady_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lady_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lady_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				4
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "lady_talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lady_talk",
+			"indices": [
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle-original",
+			"fps": 24,
+			"name": "lady_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kirie_assest",
+	"position": [
+		130,
+		20
+	],
+	"healthicon": "kirie",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		83,
+		123
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

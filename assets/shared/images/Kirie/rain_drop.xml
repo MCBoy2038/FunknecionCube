@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rain_drop.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rain_drop0000" x="40" y="40" width="1385" height="951" pivotX="1223.1" pivotY="974.1" frameX="-180" frameY="-299" frameWidth="2066" frameHeight="1632"/>
+	<SubTexture name="rain_drop0001" x="1505" y="40" width="1385" height="951" frameX="-255" frameY="-358" frameWidth="2066" frameHeight="1632"/>
+	<SubTexture name="rain_drop0002" x="40" y="1071" width="1960" height="1550" frameX="0" frameY="0" frameWidth="2066" frameHeight="1632"/>
+	<SubTexture name="rain_drop0003" x="2080" y="1071" width="1959" height="1550" frameX="-107" frameY="-82" frameWidth="2066" frameHeight="1632"/>
+</TextureAtlas>

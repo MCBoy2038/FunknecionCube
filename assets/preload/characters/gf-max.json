@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Look Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Look Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-27,
+				4
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Afraid",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF-Max",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

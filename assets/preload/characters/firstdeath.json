@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				439,
+				89
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ads-",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FirstDeath",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		160,
+		-100
+	],
+	"sing_duration": 17,
+	"scale": 0.9
+}

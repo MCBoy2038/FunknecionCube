@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kirie_idle"
+		},
+		{
+			"offsets": [
+				73,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kirie_left"
+		},
+		{
+			"offsets": [
+				-6,
+				-232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kirie_down"
+		},
+		{
+			"offsets": [
+				18,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kirie_up"
+		},
+		{
+			"offsets": [
+				-83,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kirie_right"
+		},
+		{
+			"offsets": [
+				5,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk",
+			"indices": [],
+			"name": "kirie_talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase2kirie_assest",
+	"position": [
+		130,
+		20
+	],
+	"healthicon": "cube-kirie",
+	"flip_x": false,
+	"healthbar_colors": [
+		111,
+		51,
+		71
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

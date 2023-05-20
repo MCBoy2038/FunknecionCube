@@ -1,0 +1,68 @@
+{
+	"storyName": "Uh Oh! Seems some kid stole a murderous Cube!!!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Menacing Metal",
+			"ic0n",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Murderous Cube",
+			"ic0n",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Cube Threat",
+			"ic0n",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Pray",
+			"ic0n",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Internecion",
+			"ic0n",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Funky Cube"
+}

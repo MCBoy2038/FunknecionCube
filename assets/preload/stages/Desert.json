@@ -1,0 +1,13 @@
+{
+	"directory": "Desert",
+	"defaultZoom": 0.45,
+	"isPixelStage": false,
+
+	"boyfriend": [1500, 350],
+	"girlfriend": [700, 300],
+	"opponent": [-200, 350],
+	
+	"camera_boyfriend": [400, -170],
+	"camera_opponent": [380, -100],
+	"camera_speed": 1
+}
